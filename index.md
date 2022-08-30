@@ -1,5 +1,5 @@
 
-Ajay's First CS193 Homework
+# Ajay's First CS193 Homework
 
 
 - Understanding how to use Github and terminal
